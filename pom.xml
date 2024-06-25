@@ -15,7 +15,6 @@
     <name>htmlDemo</name>
     <description>htmlDemo</description>
     <properties>
-     operties>
         <java.version>17</java.version>
     </properties>
     <dependencies>
