@@ -6,12 +6,12 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.7.0</version>
-             <packaging>war</packaging>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.Tlegen</groupId>
     <artifactId>htmlDemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+                 <packaging>war</packaging>
     <packaging>war</packaging>
     <name>htmlDemo</name>
     <description>htmlDemo</description>
